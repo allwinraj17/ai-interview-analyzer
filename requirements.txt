@@ -5,3 +5,4 @@ gTTS
 audio-recorder-streamlit
 openai
 reportlab
+pydub

@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-speech_recognition
+SpeechRecognition
 gTTS
 audio-recorder-streamlit
 openai

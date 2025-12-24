@@ -1,8 +1,9 @@
 streamlit
-python-dotenv
-openai
 PyPDF2
-SpeechRecognition
+speech_recognition
 gTTS
 audio-recorder-streamlit
+python-dotenv
+openai
 reportlab
+PyAV

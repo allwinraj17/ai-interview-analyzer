@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai
+PyPDF2
+SpeechRecognition
+gTTS
+audio-recorder-streamlit
+reportlab
